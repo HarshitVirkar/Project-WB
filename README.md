@@ -1,2 +1,2 @@
 # Project-WB
-This is a practice remote repository
+This is a practice remote git repository.
